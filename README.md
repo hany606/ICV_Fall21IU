@@ -3,6 +3,8 @@ This repository is used to work on my assignments and homeworks in Introduction 
 
 ## Assignment 1
 
+Assignment link: [here](https://github.com/hany606/ICV_Fall21IU/blob/main/Assignments/Assignment1_ICV_HanyHamed.ipynb)
+
 #### Implementing "Adaptive Threshold"
 
 ![Threshold](Media/Assignment1_1.png)
@@ -18,12 +20,16 @@ This repository is used to work on my assignments and homeworks in Introduction 
 
 ## Assignment 2
 
+Assignment link: [here](https://github.com/hany606/ICV_Fall21IU/blob/main/Assignments/Assignment2_ICV_HanyHamed.ipynb)
+
 #### Implementing Intersection over Union (IoU) and non-maximum suppression to be used with YOLO object detection
 
 ![nonmax](Media/Assignment2.png)
 
 
 ## Midterm
+
+Exam link: [here](https://github.com/hany606/ICV_Fall21IU/blob/main/Exams/Midterm.ipynb)
 
 #### Using SIFT Keypoints to find a match of a book and extracting it
 
